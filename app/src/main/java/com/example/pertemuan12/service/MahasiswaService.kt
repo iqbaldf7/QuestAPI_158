@@ -65,3 +65,4 @@ class NetworkMahasiswaRepository(
         return mahasiswaApiService.getMahasiswabyNim(nim)
     }
 }
+
